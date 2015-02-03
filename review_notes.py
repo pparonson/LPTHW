@@ -43,3 +43,15 @@ from os.path import exists
 # .truncate - empties the file. 
 # write("stuff") - writes "stuff" to the file; remember that the .write method
 	# take a parameter of a string intended to write to the file.
+
+# Command line terminal - "." (dot, period) calls / runs a function
+"""
+and 
+or 
+not
+!" (not equal)
+== (equal)
+>= (greater-than-equal)
+<= (less-than-equal)
+True
+False
